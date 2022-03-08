@@ -13,6 +13,7 @@
 3. To run the test
     
      a. Headless mode:  npx cypress run
+     
      b. Headed mode: npx cypress run --headed
 
 
