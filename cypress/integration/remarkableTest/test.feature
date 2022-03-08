@@ -1,4 +1,4 @@
-Feature: Login and Device & apps navigation verification
+Feature: Login verification and Device & apps navigation verification
 
     Scenario: login with invalid credentials
     
