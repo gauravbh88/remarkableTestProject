@@ -1,0 +1,6 @@
+{
+  "testFiles": "**/*.feature",
+  "defaultCommandTimeout": 10000,
+  "baseUrl": "https://my.remarkable.com/",
+  "projectId": "81zf86"
+}
